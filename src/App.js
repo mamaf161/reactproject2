@@ -18,7 +18,7 @@ function App() {
         <div style={{ width: "70%" }}>
           <Poste title="محمد أحمد" comment="مهندس مدني يعمل بمجال البرمجة" />
           <Poste title="tarmez acadmay" comment="comouter since company" />
-          <Poste />
+          <Poste title="محمد أحمد" comment="مهندس مدني يعمل بمجال البرمجة"/>
           <Poste />
           <Poste />
           <Poste />
