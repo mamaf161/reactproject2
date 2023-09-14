@@ -1,0 +1,14 @@
+.butstyle {
+    background-color: purple;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 3px;
+    color: white;
+    transition: all 0.5s;
+
+}
+.butstyle:hover {
+    background-color: rgb(65, 2, 65);
+    scale: 1.1;
+}
